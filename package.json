@@ -1,13 +1,13 @@
 {
-  "name": "davy_blackjack_demo",
+  "name": "qc.davy_blackjack",
   "version": "1.5.15",
   "private": true,
   "description": "A advanced blackjack game called Davy Blackjack that was originally used for my Casino app; Quest Casino version 1.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dBish6/Davy_Blackjack_Demo"
+    "url": "https://github.com/dBish6/QC.Davy_Blackjack"
   },
-  "homepage": "https://dbish6.github.io/Davy_Blackjack_Demo/",
+  "homepage": "https://dbish6.github.io/QC.Davy_Blackjack/",
   "dependencies": {
     "@chakra-ui/react": "^2.5.5",
     "@emotion/react": "^11.11.1",
